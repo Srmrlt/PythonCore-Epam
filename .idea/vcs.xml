@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/data-types-dictionaries-task-1-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data-types-final-task-1-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data-types-final-task-2-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data-types-lists-task-1-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data-types-lists-task-2-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data-types-lists-task-3-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data-types-numbers-task-1-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data-types-strings-task-1-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data-types-strings-task-2-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data-types-strings-task-3-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data-types-strings-task-4-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data-types-tuples-task-1-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data-types-tuples-task-2-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/demo-task-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/functions-decorators-decorators-task-1-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/functions-decorators-decorators-task-2-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/functions-decorators-decorators-task-3-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/functions-decorators-decorators-task-4-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/functions-decorators-final-task-1-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/functions-decorators-final-task-2-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/functions-decorators-functions-arguments-task-0-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/functions-decorators-functions-arguments-task-1-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/functions-decorators-functions-arguments-task-2-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/functions-decorators-functions-arguments-task-3-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/functions-decorators-recursions-task-1-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/functions-decorators-recursions-task-2-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oop-basics-task-1-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oop-basics-task-2-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oop-basics-task-3-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oop-basics-task-4-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oop-class-related-decorators-task-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oop-exceptions-task-1-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oop-exceptions-task-2-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oop-final-tasks-task-1-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oop-final-tasks-task-2-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oop-magic-methods-task-1-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oop-magic-methods-task-2-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oop-magic-methods-task-3-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oop-magic-methods-task-4-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oop-magic-methods-task-5-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oop-magic-methods-task-6-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oop-magic-methods-task-7-student-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scrapper-student-template" vcs="Git" />
+  </component>
+</project>
